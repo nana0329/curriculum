@@ -15,7 +15,6 @@ import java.sql.Statement;
  */
 
 public class DBSelect {
-
 	/** ドライバーのクラス名 */
 	private static final String POSTGRES_DRIVER = "org.postgresql.Driver";
 	/** ・JDMC接続先情報 */
